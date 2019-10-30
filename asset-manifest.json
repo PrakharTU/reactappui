@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PrakharTU/reactappui/static/css/main.f5d6b251.chunk.css",
+    "main.js": "/PrakharTU/reactappui/static/js/main.c5d042ff.chunk.js",
+    "main.js.map": "/PrakharTU/reactappui/static/js/main.c5d042ff.chunk.js.map",
+    "runtime-main.js": "/PrakharTU/reactappui/static/js/runtime-main.4397fe78.js",
+    "runtime-main.js.map": "/PrakharTU/reactappui/static/js/runtime-main.4397fe78.js.map",
+    "static/js/2.184cb4ec.chunk.js": "/PrakharTU/reactappui/static/js/2.184cb4ec.chunk.js",
+    "static/js/2.184cb4ec.chunk.js.map": "/PrakharTU/reactappui/static/js/2.184cb4ec.chunk.js.map",
+    "index.html": "/PrakharTU/reactappui/index.html",
+    "precache-manifest.1f8e2767c12e7510e2aa3d8bbc6cddcc.js": "/PrakharTU/reactappui/precache-manifest.1f8e2767c12e7510e2aa3d8bbc6cddcc.js",
+    "service-worker.js": "/PrakharTU/reactappui/service-worker.js",
+    "static/css/main.f5d6b251.chunk.css.map": "/PrakharTU/reactappui/static/css/main.f5d6b251.chunk.css.map",
+    "static/media/mltoolicon.png": "/PrakharTU/reactappui/static/media/mltoolicon.e8397b8d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4397fe78.js",
+    "static/js/2.184cb4ec.chunk.js",
+    "static/css/main.f5d6b251.chunk.css",
+    "static/js/main.c5d042ff.chunk.js"
+  ]
+}
